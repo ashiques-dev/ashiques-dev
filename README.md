@@ -40,14 +40,14 @@ I use modern version control systems and deployment platforms for streamlined de
 ## 📊 GitHub Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Ashique&layout=pie&theme=dark&hide_border=true&custom_title=Technologies%20I%20Use"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiques-dev&layout=pie&theme=dark&hide_border=true&custom_title=Technologies%20I%20Use"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Ashique&layout=pie&hide_border=true&custom_title=Technologies%20I%20Use"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiques-dev&layout=pie&hide_border=true&custom_title=Technologies%20I%20Use"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Ashique&layout=pie&hide_border=true&custom_title=Technologies%20I%20Use" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiques-dev&layout=pie&hide_border=true&custom_title=Technologies%20I%20Use" />
 </picture>
 
 ## 📞 Connect with Me
