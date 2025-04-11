@@ -55,7 +55,7 @@ I use modern version control systems and deployment platforms for streamlined de
 Feel free to reach out to me for collaboration, open-source contributions, or just a friendly chat!
 
 - 📧 Email: [ashiques.dev@gmail.com](mailto:ashiques.dev@gmail.com)
-- 💼 Portfolio: [portfolio](https://asqe-portfolio.vercel.app/)
+- 💼 Portfolio: [portfolio](https://ashique-dev-portfolio.vercel.app/)
 
 ---
 
